@@ -1,0 +1,499 @@
+,sample.id,EV1,EV2,EV3,EV4,ANNA_ID,Cultivar,Type,HCPC,,Group
+1,canna_1,0.030189184,-0.007167814,0.007438977,-0.052642532,canna_1,blue_dream_8,Type I,blue_dream_8_Type I_canna_1,_,group 4
+2,canna_2,-0.049311706,-0.028878186,-0.087031744,-0.031197548,canna_2,ogre_valley,Type I,ogre_valley_Type I_canna_2,_,group 4
+3,canna_3,0.036770108,0.00962592,0.013500507,-0.062639824,canna_3,blue_dream_9,Type I,blue_dream_9_Type I_canna_3,_,group 4
+4,canna_4,0.044323875,0.011017165,0.005323678,-0.062505722,canna_4,blue_dream_10,Type I,blue_dream_10_Type I_canna_4,_,group 4
+5,canna_5,-0.048572192,0.051364309,0.171220261,5.87E-05,canna_5,granddaddy_purple_1,Type I,granddaddy_purple_1_Type I_canna_5,_,group 4
+6,canna_6,-0.031990041,-0.002263051,-0.044429583,0.011833283,canna_6,Octaine_OG_x_LSD,Type I,Octaine_OG_x_LSD_Type I_canna_6,_,group 3
+7,canna_7,0.014592285,0.012087456,0.00806591,-0.020521045,canna_7,Blackberry_Kush_x_Colombian_Gold,Landrace,Blackberry_Kush_x_Colombian_Gold_Landrace_canna_7,_,group 4
+8,canna_8,-0.080326291,-0.025530987,-0.049490083,0.030084729,canna_8,GG4_3,Type I,GG4_3_Type I_canna_8,_,group 4
+9,canna_9,-0.034174931,-0.012252068,-0.07559579,-0.032819108,canna_9,sour,Type I,sour_Type I_canna_9,_,group 4
+10,canna_10,-0.052098192,0.026504669,-0.010843383,-0.000886394,canna_10,koko_royal,Unknown,koko_royal_Unknown_canna_10,_,group 3
+11,canna_11,-0.005271279,-0.008909587,-0.015466282,0.00450294,canna_11,royal_with_cheese,Type I,royal_with_cheese_Type I_canna_11,_,group 4
+12,canna_12,-0.037393295,-0.02758552,-0.018262137,-0.014165282,canna_12,purple_glue,Type I,purple_glue_Type I_canna_12,_,group 4
+13,canna_13,-0.103772007,-0.029622482,0.018317394,0.05427089,canna_13,do_si_do_1,Type I,do_si_do_1_Type I_canna_13,_,group 4
+14,canna_14,-0.026222242,0.03230086,-0.070178636,0.032807607,canna_14,citrus_sap,Type I,citrus_sap_Type I_canna_14,_,group 4
+15,canna_15,-0.016706893,-0.009241906,-0.007247553,-0.009793612,canna_15,S_x_SB_1,Type I,S_x_SB_1_Type I_canna_15,_,group 4
+16,canna_16,0.01964389,-0.025678952,0.023365981,-0.019049122,canna_16,GG4_4,Type I,GG4_4_Type I_canna_16,_,group 4
+17,canna_17,-0.033477494,-0.024584143,-0.022622832,0.015226598,canna_17,GG4_5,Type I,GG4_5_Type I_canna_17,_,group 4
+18,canna_18,-0.013956261,-0.011307158,-0.004473486,-5.08E-06,canna_18,red_hindu_kush,Landrace,red_hindu_kush_Landrace_canna_18,_,group 4
+19,canna_19,-0.021741501,-0.003821238,0.015250796,-0.009955276,canna_19,grookie,Type I,grookie_Type I_canna_19,_,group 4
+20,canna_20,0.003946789,0.030761759,-0.008787906,0.025882395,canna_20,grippler_male_x_cookie_mister_female,Type I,grippler_male_x_cookie_mister_female_Type I_canna_20,_,group 4
+21,canna_21,-0.02411615,0.016258473,0.018747217,-0.029445035,canna_21,cookie_mister_x_grippler_1,Type I,cookie_mister_x_grippler_1_Type I_canna_21,_,group 4
+22,canna_22,-0.012123075,0.002559854,-0.002934072,-0.005186585,canna_22,cookie_mister_x_grippler_2,Type I,cookie_mister_x_grippler_2_Type I_canna_22,_,group 4
+23,canna_23,0.027771723,0.060577209,-0.058696307,0.039102802,canna_23,purple_kush_blockhead,Type I,purple_kush_blockhead_Type I_canna_23,_,group 4
+24,canna_24,0.021956227,-0.01247852,0.025304583,-0.052466473,canna_24,pineapple_express_x_grippler_7,Type I,pineapple_express_x_grippler_7_Type I_canna_24,_,group 4
+25,canna_25,0.004450056,-0.019820834,0.021378624,-0.038930632,canna_25,pineapple_express_x_grippler,Type I,pineapple_express_x_grippler_Type I_canna_25,_,group 4
+26,canna_26,0.002242261,0.011855455,-0.052497898,-0.022487687,canna_26,watermellon_sangria_1_1,Type I,watermellon_sangria_1_1_Type I_canna_26,_,group 4
+27,canna_27,-0.017235926,0.010444126,-0.023996253,-0.01603672,canna_27,watermellon_sangria_1_2,Type I,watermellon_sangria_1_2_Type I_canna_27,_,group 4
+28,canna_28,0.013774247,0.005161916,-0.037620001,0.002746498,canna_28,south_fork_og,Type I,south_fork_og_Type I_canna_28,_,group 4
+29,canna_29,-0.051439855,-0.003217861,-0.033625888,-0.016176359,canna_29,valley_girl_1_the_one,Type I,valley_girl_1_the_one_Type I_canna_29,_,group 4
+30,canna_30,0.001544178,-0.005717296,-0.004797249,-0.024962748,canna_30,purple_pheno_6_cookie_mister_x_grippler,Type I,purple_pheno_6_cookie_mister_x_grippler_Type I_canna_30,_,group 4
+31,canna_31,-0.019661205,0.006754448,0.009259208,0.001344505,canna_31,purple_punch,Type I,purple_punch_Type I_canna_31,_,group 4
+32,canna_32,0.016642108,-0.004961353,0.023274328,-0.052348118,canna_32,pe_x_g_7,Type I,pe_x_g_7_Type I_canna_32,_,group 4
+33,canna_33,-0.026871214,-0.006593804,-0.008456044,-0.004720231,canna_33,the_one,Type I,the_one_Type I_canna_33,_,group 4
+34,canna_34,-0.01766165,-0.002901373,-0.012318025,-0.001224358,canna_34,Jager_x_South_Fork,Type I,Jager_x_South_Fork_Type I_canna_34,_,group 1
+35,canna_35,-0.0166796,0.007632617,0.015084045,-0.03376597,canna_35,cookie_mister_x_grippler_3,Type I,cookie_mister_x_grippler_3_Type I_canna_35,_,group 4
+36,canna_36,0.004155242,0.010038097,-0.018561322,-0.006676174,canna_36,cherry_kush,Type I,cherry_kush_Type I_canna_36,_,group 4
+37,canna_37,-0.037417563,-0.019722634,-0.014667118,-0.023680886,canna_37,pure_og,Type I,pure_og_Type I_canna_37,_,group 4
+38,canna_38,-0.000561777,0.016896807,0.015648659,0.01153622,canna_38,cookie_mister_x_grippler_4,Type I,cookie_mister_x_grippler_4_Type I_canna_38,_,group 4
+39,canna_39,-0.038686658,-0.013140184,0.002999574,-0.045199136,canna_39,grookie_grookie_x_grippler_5,Type I,grookie_grookie_x_grippler_5_Type I_canna_39,_,group 4
+40,canna_40,0.016947093,-0.018458319,0.01845471,-0.017281799,canna_40,pineapple_express_x_grippler_4,Type I,pineapple_express_x_grippler_4_Type I_canna_40,_,group 4
+41,canna_41,0.000713789,0.001408173,-0.006111291,-0.01434897,canna_41,pineapple_express_x_grippler_6,Type I,pineapple_express_x_grippler_6_Type I_canna_41,_,group 2
+42,canna_42,0.047832072,0.012980476,-0.01279278,-0.035533033,canna_42,sour_blue_1,Type I,sour_blue_1_Type I_canna_42,_,group 2
+43,canna_43,0.047328039,0.016323883,-0.000782733,-0.044305406,canna_43,sour_blue_2,Type I,sour_blue_2_Type I_canna_43,_,group 2
+44,canna_44,0.050542636,-0.048668436,0.033530742,-0.025387765,canna_44,sour_blue_3,Type I,sour_blue_3_Type I_canna_44,_,group 2
+45,canna_45,0.048858174,-0.051249112,0.039062546,-0.032984466,canna_45,sour_blue_4,Type I,sour_blue_4_Type I_canna_45,_,group 2
+46,canna_46,0.049481029,0.007766761,-0.007616291,-0.032974101,canna_46,sour_blue_5,Type I,sour_blue_5_Type I_canna_46,_,group 4
+47,canna_47,0.053146094,-0.041859311,0.037464966,-0.039790772,canna_47,sour_blue_6,Type I,sour_blue_6_Type I_canna_47,_,group 2
+48,canna_48,0.008921367,0.016290788,-0.003286401,-0.022420938,canna_48,velvet_purple,Type I,velvet_purple_Type I_canna_48,_,group 4
+49,canna_49,0.025827513,-0.044389731,-0.003500593,-0.011738148,canna_49,Nevilles_Haze,Type I,Nevilles_Haze_Type I_canna_49,_,group 2
+50,canna_50,0.051648742,0.077890155,-0.022624718,-0.00427073,canna_50,big_skunk_5,Type I,big_skunk_5_Type I_canna_50,_,group 4
+51,canna_51,-0.056163199,-0.020339392,-0.014532159,-0.005421186,canna_51,bai_2,Unknown,bai_2_Unknown_canna_51,_,group 4
+52,canna_52,-0.014241583,-0.005748145,-0.026705748,-0.032662582,canna_52,Chemdawg_91_4,Type I,Chemdawg_91_4_Type I_canna_52,_,group 4
+53,canna_53,-0.009049832,0.00245495,-0.080571206,0.030777151,canna_53,Chemdawg_91_5,Type I,Chemdawg_91_5_Type I_canna_53,_,group 4
+54,canna_54,0.054077219,0.045872494,-0.021635542,-0.069645135,canna_54,old_school_OG_5,Type I,old_school_OG_5_Type I_canna_54,_,group 4
+55,canna_55,0.032108287,0.02877475,-0.030147101,0.00592288,canna_55,arctic_blue,Type I,arctic_blue_Type I_canna_55,_,group 4
+56,canna_56,-0.033718084,0.006446303,0.023673585,-0.015453391,canna_56,forbidden_fruit_3,Type I,forbidden_fruit_3_Type I_canna_56,_,group 4
+57,canna_57,0.049430344,0.050146657,-0.013615352,-0.040961762,canna_57,cat_piss_5,Type I,cat_piss_5_Type I_canna_57,_,group 4
+58,canna_58,0.024797246,0.034303659,-0.039723108,-0.004155704,canna_58,cat_piss_6,Type I,cat_piss_6_Type I_canna_58,_,group 2
+59,canna_59,0.003780203,0.015029787,0.006120137,-0.022867394,canna_59,blue_dream_11,Type I,blue_dream_11_Type I_canna_59,_,group 4
+60,canna_60,0.000561783,0.026915772,-0.021677088,-0.029437449,canna_60,strawberry_OG_diesel,Type I,strawberry_OG_diesel_Type I_canna_60,_,group 4
+61,canna_61,0.025813014,0.024780002,0.007521731,-0.00927213,canna_61,nigerian_x_hindu_kush,Landrace,nigerian_x_hindu_kush_Landrace_canna_61,_,group 3
+62,canna_62,0.011218156,0.031649321,-0.025384869,-0.00504766,canna_62,ice,Type I,ice_Type I_canna_62,_,group 4
+63,canna_63,0.000102646,-0.017807931,-0.060932233,-0.043884652,canna_63,ceiba_1,Hemp,ceiba_1_Hemp_canna_63,_,group 4
+64,canna_64,-0.009665222,-0.036194509,-0.03156636,-0.031638756,canna_64,ceiba_2,Hemp,ceiba_2_Hemp_canna_64,_,group 4
+65,canna_65,-0.028670355,-0.054671162,-0.085939515,-0.036425386,canna_65,ceiba_3,Hemp,ceiba_3_Hemp_canna_65,_,group 4
+66,canna_66,-0.008593641,-0.038695469,-0.04054668,-0.051514042,canna_66,ceiba_4,Hemp,ceiba_4_Hemp_canna_66,_,group 4
+67,canna_67,-0.000390662,-0.049160043,-0.059413813,-0.050915007,canna_67,ceiba_5,Hemp,ceiba_5_Hemp_canna_67,_,group 4
+68,canna_68,-0.023419082,-0.035680257,-0.044741204,-0.049100999,canna_68,ceiba_6,Hemp,ceiba_6_Hemp_canna_68,_,group 4
+69,canna_69,0.0010298,-0.042190376,-0.069389701,-0.040523208,canna_69,ceiba_7,Hemp,ceiba_7_Hemp_canna_69,_,group 4
+70,canna_70,-0.002025538,-0.030290334,-0.05003763,-0.036439992,canna_70,ceiba_8,Hemp,ceiba_8_Hemp_canna_70,_,group 4
+71,canna_71,-0.003738719,-0.039028289,-0.053794836,-0.039714464,canna_71,ceiba_9,Hemp,ceiba_9_Hemp_canna_71,_,group 4
+72,canna_72,0.001730621,-0.034215062,-0.048888032,-0.041044008,canna_72,ceiba_10,Hemp,ceiba_10_Hemp_canna_72,_,group 4
+73,canna_73,0.000565414,-0.022184356,-0.05630869,-0.037117036,canna_73,ceiba_11,Hemp,ceiba_11_Hemp_canna_73,_,group 4
+74,canna_74,-0.008552128,-0.045659313,-0.035345502,-0.042986224,canna_74,the_bork_1,Unknown,the_bork_1_Unknown_canna_74,_,group 4
+75,canna_75,0.049018093,-0.063913442,0.01008114,0.052304039,canna_75,the_bork_2,Unknown,the_bork_2_Unknown_canna_75,_,group 4
+76,canna_76,0.039658428,0.000364541,-0.005214974,0.052464684,canna_76,the_bork_3,Unknown,the_bork_3_Unknown_canna_76,_,group 4
+77,canna_77,0.032994296,-0.063414892,0.000436061,0.047533427,canna_77,the_bork_4,Unknown,the_bork_4_Unknown_canna_77,_,group 4
+78,canna_78,-0.000701009,-0.00253902,0.001551567,-0.000706829,canna_78,otto_2_1,Hemp,otto_2_1_Hemp_canna_78,_,group 4
+79,canna_79,0.039222358,-0.059953877,0.029983976,0.008502297,canna_79,otto_2_2,Hemp,otto_2_2_Hemp_canna_79,_,group 4
+80,canna_80,0.042119896,-0.085510374,0.038345871,0.027121452,canna_80,otto_2_3,Hemp,otto_2_3_Hemp_canna_80,_,group 4
+81,canna_81,0.016215896,-0.082491591,-0.013894789,0.021661645,canna_81,harle_tsu_x_freedom_baby_1,Type III,harle_tsu_x_freedom_baby_1_Type III_canna_81,_,group 4
+82,canna_82,0.00830169,-0.060502213,-0.055013553,-0.02332001,canna_82,harle_tsu_x_freedom_baby_2,Type III,harle_tsu_x_freedom_baby_2_Type III_canna_82,_,group 4
+83,canna_83,-0.023182939,-0.061190457,-0.063854771,-0.042518469,canna_83,harle_tsu_x_freedom_baby_3,Type III,harle_tsu_x_freedom_baby_3_Type III_canna_83,_,group 4
+84,canna_84,0.007584555,-0.04686258,-0.079185924,-0.040400653,canna_84,harle_tsu_x_freedom_baby_4,Type III,harle_tsu_x_freedom_baby_4_Type III_canna_84,_,group 4
+85,canna_85,-0.033471243,-0.072447562,-0.049175049,-0.051105288,canna_85,harle_tsu_x_freedom_baby_5,Type III,harle_tsu_x_freedom_baby_5_Type III_canna_85,_,group 4
+86,canna_86,0.016840964,-0.034111591,-0.028459205,-0.030983949,canna_86,harle_tsu_x_freedom_baby_6,Type III,harle_tsu_x_freedom_baby_6_Type III_canna_86,_,group 4
+87,canna_87,0.062138804,-0.12553199,0.031578792,0.104536405,canna_87,magic_bullet_1,Hemp,magic_bullet_1_Hemp_canna_87,_,group 4
+88,canna_88,0.066241937,-0.142089268,0.030595769,0.102509173,canna_88,magic_bullet_2,Hemp,magic_bullet_2_Hemp_canna_88,_,group 4
+89,canna_89,0.064026081,-0.128105691,0.035025397,0.103352192,canna_89,magic_bullet_3,Hemp,magic_bullet_3_Hemp_canna_89,_,group 4
+90,canna_90,0.063222092,-0.080891965,0.042227257,-0.013770253,canna_90,colorado_cherry_1,Hemp,colorado_cherry_1_Hemp_canna_90,_,group 4
+91,canna_91,0.06217118,-0.080193831,0.042320266,-0.01859005,canna_91,colorado_cherry_2,Hemp,colorado_cherry_2_Hemp_canna_91,_,group 4
+92,canna_92,0.056310949,-0.078621582,0.035701788,-0.01691158,canna_92,colorado_cherry_3,Hemp,colorado_cherry_3_Hemp_canna_92,_,group 4
+93,canna_93,0.060094163,-0.076328145,0.047385471,-0.012518632,canna_93,colorado_cherry_4,Hemp,colorado_cherry_4_Hemp_canna_93,_,group 4
+94,canna_94,0.079899952,-0.134619901,0.049930046,0.063679091,canna_94,magic_bullet_4,Hemp,magic_bullet_4_Hemp_canna_94,_,group 4
+95,canna_95,0.082781707,-0.1399091,0.051761565,0.068623518,canna_95,magic_bullet_5,Hemp,magic_bullet_5_Hemp_canna_95,_,group 4
+96,canna_96,0.080093545,-0.140432035,0.051181552,0.073993377,canna_96,magic_bullet_6,Hemp,magic_bullet_6_Hemp_canna_96,_,group 4
+97,canna_97,0.062496096,-0.134411043,0.025650713,0.109496124,canna_97,magic_bullet_7,Hemp,magic_bullet_7_Hemp_canna_97,_,group 4
+98,canna_98,0.063923477,-0.129324379,0.031718297,0.107591174,canna_98,magic_bullet_8,Hemp,magic_bullet_8_Hemp_canna_98,_,group 1
+99,canna_99,0.065570312,-0.126282861,0.025103051,0.107158316,canna_99,magic_bullet_9,Hemp,magic_bullet_9_Hemp_canna_99,_,group 1
+100,canna_100,0.078714505,-0.138407953,0.054849521,0.065427417,canna_100,magic_bullet_10,Hemp,magic_bullet_10_Hemp_canna_100,_,group 1
+101,canna_101,0.084045437,-0.138360562,0.0536581,0.078255882,canna_101,magic_bullet_11,Hemp,magic_bullet_11_Hemp_canna_101,_,group 1
+102,canna_102,0.080748426,-0.138384657,0.050751107,0.073075048,canna_102,magic_bullet_12,Hemp,magic_bullet_12_Hemp_canna_102,_,group 2
+103,canna_103,0.083516221,-0.139328752,0.05227743,0.076507953,canna_103,magic_bullet_13,Hemp,magic_bullet_13_Hemp_canna_103,_,group 4
+104,canna_104,0.036491161,-0.024725927,-0.012042437,0.028922863,canna_104,low_rider,Type I,low_rider_Type I_canna_104,_,group 4
+105,canna_105,0.061091801,-0.082163341,0.042451195,-0.018596689,canna_105,colorado_cherry_5,Hemp,colorado_cherry_5_Hemp_canna_105,_,group 4
+106,canna_106,0.064298292,-0.082810184,0.044293564,-0.017897119,canna_106,colorado_cherry_6,Hemp,colorado_cherry_6_Hemp_canna_106,_,group 4
+107,canna_107,0.061170828,-0.080362571,0.043710181,-0.021557127,canna_107,magic_bullet_14,Hemp,magic_bullet_14_Hemp_canna_107,_,group 4
+108,canna_108,0.023979878,0.017410128,-0.0306859,0.093171188,canna_108,sweet_tea_1,Type I,sweet_tea_1_Type I_canna_108,_,group 4
+109,canna_109,0.067539565,-0.090655128,0.024007578,0.066302215,canna_109,Zinger_1,Type I,Zinger_1_Type I_canna_109,_,group 4
+110,canna_110,0.02123681,0.062155735,-0.048803713,0.103987957,canna_110,Vanilla_Tort_1,Unknown,Vanilla_Tort_1_Unknown_canna_110,_,group 4
+111,canna_111,0.071548056,-0.060771199,0.019372269,0.040650753,canna_111,Zinger_2,Type I,Zinger_2_Type I_canna_111,_,group 4
+112,canna_112,0.013187385,0.014587677,-0.017546255,-0.01486677,canna_112,blood_drive_1,Type I,blood_drive_1_Type I_canna_112,_,group 4
+113,canna_113,0.054931322,0.090750358,-0.073314013,0.06983776,canna_113,Zinger_3,Type I,Zinger_3_Type I_canna_113,_,group 4
+114,canna_114,0.01536992,0.039803578,-0.042764613,0.10097697,canna_114,Vanilla_Tort_2,Unknown,Vanilla_Tort_2_Unknown_canna_114,_,group 4
+115,canna_115,0.03965481,0.064541663,-0.054951387,0.052126537,canna_115,Zinger_4,Type I,Zinger_4_Type I_canna_115,_,group 4
+116,canna_116,0.022486177,0.042109013,-0.046550085,0.05486892,canna_116,kaffir_lime_1,Type I,kaffir_lime_1_Type I_canna_116,_,group 1
+117,canna_117,0.004182393,0.05542928,0.042728436,0.042955328,canna_117,dr_who_6,Type I,dr_who_6_Type I_canna_117,_,group 1
+118,canna_118,0.039874442,0.05755376,-0.002082958,0.015885675,canna_118,cali_obx_2,Unknown,cali_obx_2_Unknown_canna_118,_,group 1
+119,canna_119,-0.011764673,-0.048375587,-0.029229865,-0.018297893,canna_119,sos_1,Type I,sos_1_Type I_canna_119,_,group 1
+120,canna_120,-0.020511315,-0.014317508,-0.020759207,0.010067975,canna_120,strawberry_cough,Type I,strawberry_cough_Type I_canna_120,_,group 1
+121,canna_121,0.011324906,0.008821717,-0.059764675,0.065649844,canna_121,teflon_don_1,Type I,teflon_don_1_Type I_canna_121,_,group 4
+122,canna_122,0.061203173,0.095712109,-0.072125341,0.07465477,canna_122,Zinger_5,Type I,Zinger_5_Type I_canna_122,_,group 4
+123,canna_123,0.063408238,0.094542812,-0.070758192,0.073369434,canna_123,Zinger_6,Type I,Zinger_6_Type I_canna_123,_,group 4
+124,canna_124,0.012898483,0.037891958,-0.037325129,0.09544106,canna_124,vanilla_3,Type I,vanilla_3_Type I_canna_124,_,group 4
+125,canna_125,0.05956952,0.093839559,-0.069782886,0.07069221,canna_125,Zinger_7,Type I,Zinger_7_Type I_canna_125,_,group 3
+126,canna_126,0.057914695,0.087815548,-0.070576741,0.066313325,canna_126,Zinger_8,Type I,Zinger_8_Type I_canna_126,_,group 4
+127,canna_127,0.016730564,0.028158033,-0.012511421,0.096279779,canna_127,citron_snaps_2,Type I,citron_snaps_2_Type I_canna_127,_,group 3
+128,canna_128,0.014570564,0.011539503,-0.019003653,-0.012270821,canna_128,blood_drive_2,Type I,blood_drive_2_Type I_canna_128,_,group 3
+129,canna_129,0.010531449,0.032690971,-0.042237274,0.09502537,canna_129,Vanilla_Tort_3,Unknown,Vanilla_Tort_3_Unknown_canna_129,_,group 4
+130,canna_130,0.010752083,0.037432849,-0.027534429,0.057274629,canna_130,Vanilla_Tort_4,Unknown,Vanilla_Tort_4_Unknown_canna_130,_,group 4
+131,canna_131,0.017908456,0.068211469,-0.044805464,0.107232496,canna_131,Vanilla_Tort_5,Unknown,Vanilla_Tort_5_Unknown_canna_131,_,group 4
+132,canna_132,-0.042926174,-0.036398399,-0.059041284,-0.065480535,canna_132,banana,Type I,banana_Type I_canna_132,_,group 4
+133,canna_133,-0.010079023,0.008186417,0.006406992,-0.021818144,canna_133,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_1,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_1_Unknown_canna_133,_,group 4
+134,canna_134,0.009483931,-0.00569722,0.012199416,-0.033447215,canna_134,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_2,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_2_Unknown_canna_134,_,group 4
+135,canna_135,-0.028542963,-0.019425911,0.024924213,-0.013767929,canna_135,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_3,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_3_Unknown_canna_135,_,group 4
+136,canna_136,0.010012053,0.028856478,-0.052721323,0.025307761,canna_136,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_4,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_4_Unknown_canna_136,_,group 4
+137,canna_137,-0.06919529,-0.02771506,-0.031740791,-0.021431615,canna_137,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_5,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_5_Unknown_canna_137,_,group 1
+138,canna_138,-0.098852197,-0.00015826,0.036338879,0.019412378,canna_138,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_6,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_6_Unknown_canna_138,_,group 1
+139,canna_139,-0.071613146,-0.020198838,-0.09668877,-0.021439465,canna_139,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_7,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_7_Unknown_canna_139,_,group 1
+140,canna_140,-0.075104731,-0.003780685,0.021603344,0.000489456,canna_140,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_8,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_8_Unknown_canna_140,_,group 1
+141,canna_141,-0.047056587,-0.012931318,-0.075013552,-0.012954234,canna_141,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_9,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_9_Unknown_canna_141,_,group 1
+142,canna_142,-0.051947349,-0.016859276,-0.067516129,0.031209273,canna_142,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_10,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_10_Unknown_canna_142,_,group 1
+143,canna_143,-0.068868648,0.017137642,0.020694765,0.012036286,canna_143,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_11,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_11_Unknown_canna_143,_,group 4
+144,canna_144,-0.067893313,-0.014206284,-0.079202468,-0.017388074,canna_144,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_12,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_12_Unknown_canna_144,_,group 4
+145,canna_145,-0.019334124,0.033314546,-0.08991899,0.074791743,canna_145,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_13,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_13_Unknown_canna_145,_,group 4
+146,canna_146,-0.018324938,0.025376641,-0.073604944,0.089241126,canna_146,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_14,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_14_Unknown_canna_146,_,group 4
+147,canna_147,0.032444821,0.015186884,-0.018243207,-0.025938077,canna_147,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_15,Unknown,Emerald_Jack Lemon x Lemon Nepalese Siskiyou_15_Unknown_canna_147,_,group 4
+148,canna_148,0.037713383,0.036856588,-0.018881384,0.005170431,canna_148,devils_tit,Type I,devils_tit_Type I_canna_148,_,group 4
+149,canna_149,0.014384885,0.042655993,-0.031415387,0.081176841,canna_149,purple_urkle_11,Type I,purple_urkle_11_Type I_canna_149,_,group 4
+150,canna_150,-0.00094283,0.011776969,0.045612355,-0.040900717,canna_150,harlequin_x_grand_daddy_purple,Type II,harlequin_x_grand_daddy_purple_Type II_canna_150,_,group 1
+151,canna_151,-0.000547456,0.038539242,-0.045271831,0.018593033,canna_151,GG4_6,Type I,GG4_6_Type I_canna_151,_,group 4
+152,canna_152,0.007535129,0.038755903,-0.007755279,-0.014760987,canna_152,purple_urkle_12,Type I,purple_urkle_12_Type I_canna_152,_,group 4
+153,canna_153,0.016858684,-0.015429447,0.031916661,-0.037373677,canna_153,special_sauce_1,Type III,special_sauce_1_Type III_canna_153,_,group 4
+154,canna_154,0.04149985,0.050512388,-0.001108451,-0.012799379,canna_154,berry_blossom,Type III,berry_blossom_Type III_canna_154,_,group 2
+155,canna_155,0.034677676,-0.031008789,-0.012810084,-0.004503228,canna_155,cherry_wine_1,Hemp,cherry_wine_1_Hemp_canna_155,_,group 2
+156,canna_156,0.043779027,-0.005947444,0.03484964,-0.022109426,canna_156,special_sauce_2,Type III,special_sauce_2_Type III_canna_156,_,group 4
+157,canna_157,-0.039141835,-0.011184296,0.01629885,-0.018011875,canna_157,cherry_hemp_1,Hemp,cherry_hemp_1_Hemp_canna_157,_,group 2
+158,canna_158,0.044661482,-0.038751432,0.025922549,-0.035788089,canna_158,hawaiian_haze,Type I,hawaiian_haze_Type I_canna_158,_,group 2
+159,canna_159,0.026716733,-0.003909205,0.018423314,0.000375156,canna_159,lifter,Type III,lifter_Type III_canna_159,_,group 2
+160,canna_160,0.00657162,-0.028872272,0.006769216,-0.019670419,canna_160,cherry_hemp_2,Hemp,cherry_hemp_2_Hemp_canna_160,_,group 4
+161,canna_161,0.04907425,-0.047300461,0.010733612,0.02008685,canna_161,cherry_wine_2,Hemp,cherry_wine_2_Hemp_canna_161,_,group 2
+162,canna_162,-0.009324391,-0.049940623,-0.005044049,-0.021578134,canna_162,e1,Unknown,e1_Unknown_canna_162,_,group 2
+163,canna_163,-0.137504682,-0.026801786,0.025204286,0.067613337,canna_163,kali_mist_x_burmese_1,Landrace,kali_mist_x_burmese_1_Landrace_canna_163,_,group 4
+164,canna_164,0.007175346,-0.02447219,0.014489523,0.010396044,canna_164,yeshe_18_1,Landrace,yeshe_18_1_Landrace_canna_164,_,group 2
+165,canna_165,-0.024474489,0.004121572,0.063681296,-0.017276892,canna_165,yeshe_18_2,Landrace,yeshe_18_2_Landrace_canna_165,_,group 4
+166,canna_166,0.010114496,-0.010673867,0.014019833,0.014544833,canna_166,smugglers_choice_x_burmese,Landrace,smugglers_choice_x_burmese_Landrace_canna_166,_,group 4
+167,canna_167,0.008767764,-0.014505599,0.062088421,0.000897738,canna_167,yeshe_18_3,Landrace,yeshe_18_3_Landrace_canna_167,_,group 4
+168,canna_168,0.001208587,-0.010802076,0.07386764,0.010804784,canna_168,yeshe_18_4,Landrace,yeshe_18_4_Landrace_canna_168,_,group 4
+169,canna_169,-0.013984852,0.008747794,0.059393969,-0.017080624,canna_169,yeshe_18_5,Landrace,yeshe_18_5_Landrace_canna_169,_,group 4
+170,canna_170,0.032013935,-0.019587333,0.011247109,-0.024288003,canna_170,swazi_x_burmese_1,Landrace,swazi_x_burmese_1_Landrace_canna_170,_,group 4
+171,canna_171,0.03986684,-0.006889262,-0.005889832,-0.035937024,canna_171,swazi_x_burmese_2,Landrace,swazi_x_burmese_2_Landrace_canna_171,_,group 4
+172,canna_172,0.02180712,-0.017567802,0.023235732,4.51E-06,canna_172,swazi_x_burmese_3,Landrace,swazi_x_burmese_3_Landrace_canna_172,_,group 3
+173,canna_173,0.030890811,0.020810541,0.021808734,0.003821983,canna_173,kali_mist_x_burmese_2,Landrace,kali_mist_x_burmese_2_Landrace_canna_173,_,group 3
+174,canna_174,0.068495219,0.07126614,-0.036072217,0.038321207,canna_174,pakistan_landrace_1,Landrace,pakistan_landrace_1_Landrace_canna_174,_,group 4
+175,canna_175,0.052345552,0.038443718,-0.021730825,-0.006301531,canna_175,pakistan_landrace_2,Landrace,pakistan_landrace_2_Landrace_canna_175,_,group 4
+176,canna_176,0.023756013,0.047899215,0.040270582,-0.013243739,canna_176,shivam,Landrace,shivam_Landrace_canna_176,_,group 4
+177,canna_177,-0.053250951,0.05458369,0.173512584,0.005991939,canna_177,granddaddy_purple_2,Type I,granddaddy_purple_2_Type I_canna_177,_,group 4
+178,canna_178,-0.023898871,-0.039297021,-0.01972522,-0.027389296,canna_178,rsmh_1,Landrace,rsmh_1_Landrace_canna_178,_,group 4
+179,canna_179,0.000164416,-0.014443673,-0.048115128,-0.016103249,canna_179,rsmh_2,Landrace,rsmh_2_Landrace_canna_179,_,group 2
+180,canna_180,0.013035572,-0.019767353,0.019052538,-0.029003171,canna_180,s_h_fb,Landrace,s_h_fb_Landrace_canna_180,_,group 4
+181,canna_181,0.005136513,0.005237026,-0.025881878,-0.002788635,canna_181,co_congo_1,Landrace,co_congo_1_Landrace_canna_181,_,group 4
+182,canna_182,0.010894828,-0.011555876,-0.054424723,-0.016050531,canna_182,co_congo_2,Landrace,co_congo_2_Landrace_canna_182,_,group 4
+183,canna_183,0.01596567,0.01837702,-0.037199556,-0.015539498,canna_183,b_v_d_p_1,Landrace,b_v_d_p_1_Landrace_canna_183,_,group 4
+184,canna_184,-0.055387187,0.05496083,0.168161766,1.52E-05,canna_184,granddaddy_purple_3,Type I,granddaddy_purple_3_Type I_canna_184,_,group 4
+185,canna_185,-0.053009475,0.055533134,0.167112503,0.001261968,canna_185,granddaddy_purple_4,Type I,granddaddy_purple_4_Type I_canna_185,_,group 4
+186,canna_186,0.039775643,-0.014800203,0.005687778,0.010677622,canna_186,australian_bastard_cannabis_abc,Landrace,australian_bastard_cannabis_abc_Landrace_canna_186,_,group 4
+187,canna_187,0.012320632,-0.004308928,0.009892135,-0.014023429,canna_187,moroccan_landrace_1,Landrace,moroccan_landrace_1_Landrace_canna_187,_,group 4
+188,canna_188,-0.004535929,0.011440745,-0.028391976,0.035473577,canna_188,moroccan_landrace_2,Landrace,moroccan_landrace_2_Landrace_canna_188,_,group 4
+189,canna_189,-0.075037571,-0.027588749,0.0007204,-0.000853678,canna_189,suede_shoes,Type I,suede_shoes_Type I_canna_189,_,group 4
+190,canna_190,0.032406118,0.033452436,0.06554503,-0.132175664,canna_190,autopilot_1,Type I,autopilot_1_Type I_canna_190,_,group 4
+191,canna_191,0.012493675,0.025569601,0.042522357,-0.080348992,canna_191,autopilot_2,Type I,autopilot_2_Type I_canna_191,_,group 4
+192,canna_192,0.025400151,0.017397766,0.048091447,-0.085923523,canna_192,autopilot_3,Type I,autopilot_3_Type I_canna_192,_,group 4
+193,canna_193,0.014592283,0.021429812,0.041622763,-0.099150684,canna_193,autopilot_4,Type I,autopilot_4_Type I_canna_193,_,group 4
+194,canna_194,0.027845238,0.027066148,0.052577297,-0.113370225,canna_194,autopilot_5,Type I,autopilot_5_Type I_canna_194,_,group 4
+195,canna_195,0.023397277,0.028268629,0.065074207,-0.118479421,canna_195,autopilot_6,Type I,autopilot_6_Type I_canna_195,_,group 4
+196,canna_196,0.025758589,0.019298015,0.06040579,-0.111142091,canna_196,autopilot_7,Type I,autopilot_7_Type I_canna_196,_,group 4
+197,canna_197,0.017960023,0.024369498,0.076570958,-0.127634801,canna_197,autopilot_8,Type I,autopilot_8_Type I_canna_197,_,group 4
+198,canna_198,0.02964902,0.028222376,0.04585707,-0.107332073,canna_198,autopilot_9,Type I,autopilot_9_Type I_canna_198,_,group 4
+199,canna_199,0.014523226,0.021891619,0.061158514,-0.098770857,canna_199,autopilot_10,Type I,autopilot_10_Type I_canna_199,_,group 4
+200,canna_200,0.010778959,0.012733701,0.035811616,-0.06045531,canna_200,autopilot_11,Type I,autopilot_11_Type I_canna_200,_,group 4
+201,canna_201,0.042764283,0.005613618,-0.000249359,-0.063197134,canna_201,blue_dream_3,Type I,blue_dream_3_Type I_canna_201,_,group 4
+202,canna_202,0.032038113,0.024321321,0.070470027,-0.13426012,canna_202,autopilot_12,Type I,autopilot_12_Type I_canna_202,_,group 4
+203,canna_203,0.004721149,-0.003197616,0.010009249,-0.008227768,canna_203,autopilot_13,Type I,autopilot_13_Type I_canna_203,_,group 4
+204,canna_204,0.02073059,0.0301759,0.06932019,-0.104483333,canna_204,autopilot_14,Type I,autopilot_14_Type I_canna_204,_,group 4
+205,canna_205,-0.056425296,0.004306049,0.013681124,-0.026689354,canna_205,zoolander,Type I,zoolander_Type I_canna_205,_,group 3
+206,canna_206,-0.073304363,0.010635493,0.001690121,-0.027277368,canna_206,mountain_mist,Type I,mountain_mist_Type I_canna_206,_,group 2
+207,canna_207,-0.096196757,0.006979175,0.025772653,0.035356141,canna_207,SFV_x_BK_Dog,Type I,SFV_x_BK_Dog_Type I_canna_207,_,group 2
+208,canna_208,-0.019347891,-0.012926261,-0.067503566,-0.031018519,canna_208,banana_split,Type I,banana_split_Type I_canna_208,_,group 2
+209,canna_209,0.040459009,0.026273424,0.005020052,-0.006352089,canna_209,do_si_do_2,Type I,do_si_do_2_Type I_canna_209,_,group 2
+210,canna_210,-0.128223458,-0.033010379,0.018097094,0.058647725,canna_210,do_si_do_3,Type I,do_si_do_3_Type I_canna_210,_,group 2
+211,canna_211,0.020243595,0.039018199,-0.049387674,0.014000957,canna_211,CW_x_Magic_Bullet_1,Hemp,CW_x_Magic_Bullet_1_Hemp_canna_211,_,group 2
+212,canna_212,0.057475412,-0.099899268,0.015533255,0.039831077,canna_212,CW_x_ACDC,Type III,CW_x_ACDC_Type III_canna_212,_,group 2
+213,canna_213,0.012390203,0.030146825,-0.018189382,0.01304371,canna_213,CW_x_Magic_Bullet_2,Hemp,CW_x_Magic_Bullet_2_Hemp_canna_213,_,group 4
+214,canna_214,-0.123464294,-0.026794661,0.017726452,0.061702392,canna_214,do_si_do_4,Type I,do_si_do_4_Type I_canna_214,_,group 4
+215,canna_215,0.017667623,0.001171657,-0.007590927,-0.01192527,canna_215,upstream_1_purple_train,Type I,upstream_1_purple_train_Type I_canna_215,_,group 4
+216,canna_216,0.019016715,-0.00668299,-0.012850002,-0.006101873,canna_216,upstream_2_purple_train,Type I,upstream_2_purple_train_Type I_canna_216,_,group 4
+217,canna_217,0.042666523,-0.016648902,-0.005183153,0.01033196,canna_217,upstream_3_purple_train,Type I,upstream_3_purple_train_Type I_canna_217,_,group 4
+218,canna_218,0.036990394,-0.020843417,-0.001662278,0.011440133,canna_218,upstream_4_purple_train,Type I,upstream_4_purple_train_Type I_canna_218,_,group 1
+219,canna_219,-0.115990134,0.004888936,0.046925873,0.024476739,canna_219,Thin_Mint_Cookies_1,Type I,Thin_Mint_Cookies_1_Type I_canna_219,_,group 4
+220,canna_220,-0.110658111,0.001886575,0.050389826,0.024113728,canna_220,Thin_Mint_Cookies_2,Type I,Thin_Mint_Cookies_2_Type I_canna_220,_,group 4
+221,canna_221,-0.131095415,-0.030286634,0.016601687,0.070151109,canna_221,do_si_do_5,Type I,do_si_do_5_Type I_canna_221,_,group 4
+222,canna_222,-0.106839876,-0.002374724,0.023776132,0.063859631,canna_222,biscotti_1,Type I,biscotti_1_Type I_canna_222,_,group 4
+223,canna_223,-0.104958118,0.002652125,0.025572834,0.056559893,canna_223,biscotti_2,Type I,biscotti_2_Type I_canna_223,_,group 4
+224,canna_224,-0.101324565,-0.004851427,0.030906968,0.057744502,canna_224,biscotti_3,Type I,biscotti_3_Type I_canna_224,_,group 4
+225,canna_225,-0.101938919,-0.002762323,0.02381583,0.052524419,canna_225,biscotti_4,Type I,biscotti_4_Type I_canna_225,_,group 4
+226,canna_226,-0.096602461,-0.008702101,0.027376058,0.042821064,canna_226,biscotti_5,Type I,biscotti_5_Type I_canna_226,_,group 4
+227,canna_227,-0.102473653,-0.005986903,0.046355235,0.021769195,canna_227,mochi_1,Type I,mochi_1_Type I_canna_227,_,group 4
+228,canna_228,-0.045593043,-0.013477618,-0.049864562,-0.037475599,canna_228,do_si_do_6,Type I,do_si_do_6_Type I_canna_228,_,group 1
+229,canna_229,-0.102370155,0.001584031,0.052899541,0.020667986,canna_229,mochi_2,Type I,mochi_2_Type I_canna_229,_,group 4
+230,canna_230,0.005545725,-0.007755224,-0.013233081,-0.043140436,canna_230,Gelato_1,Type I,Gelato_1_Type I_canna_230,_,group 4
+231,canna_231,0.00702022,-0.003600524,-0.01688945,-0.041267172,canna_231,Gelato_2,Type I,Gelato_2_Type I_canna_231,_,group 4
+232,canna_232,0.005162894,0.005667646,-0.026802962,-0.032956058,canna_232,Gelato_3,Type I,Gelato_3_Type I_canna_232,_,group 4
+233,canna_233,0.018091316,0.024372642,-0.021365362,-0.011977123,canna_233,fruit_snacks_1,Type I,fruit_snacks_1_Type I_canna_233,_,group 4
+234,canna_234,0.017050021,0.01037661,-0.017366437,-0.014061809,canna_234,fruit_snacks_2,Type I,fruit_snacks_2_Type I_canna_234,_,group 4
+235,canna_235,0.018382079,0.025735425,-0.016354189,-0.004669803,canna_235,fruit_snacks_3,Type I,fruit_snacks_3_Type I_canna_235,_,group 4
+236,canna_236,-0.11732698,-0.021456905,0.017748848,0.06071347,canna_236,do_si_do_7,Type I,do_si_do_7_Type I_canna_236,_,group 2
+237,canna_237,-0.132499136,-0.033004723,0.022268475,0.063807978,canna_237,do_si_do_8,Type I,do_si_do_8_Type I_canna_237,_,group 2
+238,canna_238,-0.057652557,-0.049516016,-0.05389662,-0.031295924,canna_238,do_si_do_9,Type I,do_si_do_9_Type I_canna_238,_,group 4
+239,canna_239,-0.12859235,-0.027541313,0.023653449,0.061910184,canna_239,do_si_do_10,Type I,do_si_do_10_Type I_canna_239,_,group 4
+240,canna_240,-0.116825369,0.001910659,0.048161761,0.021728853,canna_240,Wedding_Cake_1,Type I,Wedding_Cake_1_Type I_canna_240,_,group 4
+241,canna_241,-0.029069973,-0.017195046,-0.00816238,0.003738346,canna_241,Wedding_Cake_2,Type I,Wedding_Cake_2_Type I_canna_241,_,group 4
+242,canna_242,-0.0381583,-0.011422911,-0.049937989,-0.033528545,canna_242,Superman_1,Type I,Superman_1_Type I_canna_242,_,group 4
+243,canna_243,-0.034628483,-0.010740067,-0.043965466,-0.03520167,canna_243,Superman_2,Type I,Superman_2_Type I_canna_243,_,group 4
+244,canna_244,-0.034192235,-0.016763379,-0.055900758,-0.041548477,canna_244,Superman_3,Type I,Superman_3_Type I_canna_244,_,group 3
+245,canna_245,-0.038503419,-0.008252591,-0.042056311,-0.034248789,canna_245,Superman_4,Type I,Superman_4_Type I_canna_245,_,group 3
+246,canna_246,-0.09331637,-0.032110087,-0.053955696,0.033644098,canna_246,Sky_1,Type I,Sky_1_Type I_canna_246,_,group 4
+247,canna_247,-0.091994137,-0.029632209,-0.056103153,0.029161856,canna_247,Sky_2,Type I,Sky_2_Type I_canna_247,_,group 4
+248,canna_248,-0.079935942,-0.032302329,-0.048663942,0.02739418,canna_248,Sky_3,Type I,Sky_3_Type I_canna_248,_,group 3
+249,canna_249,-0.080371937,-0.030352492,-0.047173164,0.031431579,canna_249,Sky_4,Type I,Sky_4_Type I_canna_249,_,group 3
+250,canna_250,-0.075354309,-0.028462003,-0.083992451,-0.008986721,canna_250,upstream_2,Unknown,upstream_2_Unknown_canna_250,_,group 2
+251,canna_251,-0.102833495,0.00235497,0.04751793,0.024654694,canna_251,blizzard_1,Type I,blizzard_1_Type I_canna_251,_,group 4
+252,canna_252,-0.006360999,0.015885685,0.017326989,-0.011828126,canna_252,blizzard_2,Type I,blizzard_2_Type I_canna_252,_,group 4
+253,canna_253,-0.103276578,-0.001394039,0.046039134,0.02210752,canna_253,blizzard_3,Type I,blizzard_3_Type I_canna_253,_,group 4
+254,canna_254,-0.025368368,0.024769372,-0.060194772,0.039350781,canna_254,upstream_4,Unknown,upstream_4_Unknown_canna_254,_,group 4
+255,canna_255,-0.068039546,-0.026369908,-0.078826553,-0.010894948,canna_255,upstream_5,Unknown,upstream_5_Unknown_canna_255,_,group 4
+256,canna_256,0.056428031,-0.113641779,0.030372777,0.040112056,canna_256,cherry_wine_3,Hemp,cherry_wine_3_Hemp_canna_256,_,group 4
+257,canna_257,0.044258217,-0.06647041,0.012409819,0.01929067,canna_257,cherry_wine_4,Hemp,cherry_wine_4_Hemp_canna_257,_,group 4
+258,canna_258,0.05994386,-0.074705256,-0.006289874,0.047415884,canna_258,cherry_wine_5,Hemp,cherry_wine_5_Hemp_canna_258,_,group 4
+259,canna_259,0.069035039,-0.123547945,0.04789648,0.063597801,canna_259,cherry_wine_6,Hemp,cherry_wine_6_Hemp_canna_259,_,group 4
+260,canna_260,0.054898729,-0.076721385,0.044172994,0.035020493,canna_260,chardonnay_1,Type III,chardonnay_1_Type III_canna_260,_,group 4
+261,canna_261,0.042690213,-0.092511898,0.035409207,0.026747057,canna_261,chardonnay_2,Type III,chardonnay_2_Type III_canna_261,_,group 2
+262,canna_262,0.034304412,-0.057867541,0.01410746,0.015773721,canna_262,chardonnay_3,Type III,chardonnay_3_Type III_canna_262,_,group 4
+263,canna_263,0.056558842,-0.060894283,0.012087876,0.040996529,canna_263,chardonnay_4,Type III,chardonnay_4_Type III_canna_263,_,group 4
+264,canna_264,-0.001166002,0.020765502,0.001833517,-0.017231099,canna_264,W_strain_1,Unknown,W_strain_1_Unknown_canna_264,_,group 3
+265,canna_265,-0.000794612,0.023938604,0.023040191,0.022429629,canna_265,W_strain_2,Unknown,W_strain_2_Unknown_canna_265,_,group 4
+266,canna_266,-0.027441604,0.016589468,0.043514776,-0.010353451,canna_266,W_strain_3,Unknown,W_strain_3_Unknown_canna_266,_,group 3
+267,canna_267,0.011013301,0.042679962,0.013649108,0.021656059,canna_267,W_strain_4,Unknown,W_strain_4_Unknown_canna_267,_,group 4
+268,canna_268,-0.002430029,0.022855374,0.009765131,-0.007221202,canna_268,W_strain_5,Unknown,W_strain_5_Unknown_canna_268,_,group 4
+269,canna_269,0.022079344,0.050579602,0.012331266,0.026954517,canna_269,W_strain_6,Unknown,W_strain_6_Unknown_canna_269,_,group 4
+270,canna_270,-0.070304143,-0.014682616,-0.013915587,0.029250251,canna_270,valley_girl_4,Type I,valley_girl_4_Type I_canna_270,_,group 4
+271,canna_271,-0.014057149,-0.029530282,0.049503242,-0.001467967,canna_271,ice_cream_cookie,Type I,ice_cream_cookie_Type I_canna_271,_,group 4
+272,canna_272,-0.030935831,-0.019758445,-0.0162101,-0.043317652,canna_272,purple_papaya_punch,Type I,purple_papaya_punch_Type I_canna_272,_,group 4
+273,canna_273,-0.044239775,-0.017621972,0.03537231,-0.023450354,canna_273,white_buffalo,Type I,white_buffalo_Type I_canna_273,_,group 1
+274,canna_274,0.00628938,0.063982244,-0.006366956,0.075058684,canna_274,space_candy,Type I,space_candy_Type I_canna_274,_,group 1
+275,canna_275,-0.019978112,-0.003111895,-0.005763658,0.012845842,canna_275,northern_lights,Landrace,northern_lights_Landrace_canna_275,_,group 1
+276,canna_276,0.016902431,0.043475231,0.002983469,0.076309788,canna_276,GG4_7,Type I,GG4_7_Type I_canna_276,_,group 1
+277,canna_277,0.002178938,0.003539791,-0.027614819,0.019220747,canna_277,chronic_haze,Type I,chronic_haze_Type I_canna_277,_,group 1
+278,canna_278,0.017232224,-0.013973337,0.015172431,-0.021391487,canna_278,afghan_kush_x_black_domina,Landrace,afghan_kush_x_black_domina_Landrace_canna_278,_,group 1
+279,canna_279,0.044152357,-0.051539158,0.031736571,0.042160154,canna_279,sugar_mango_ryder,Type I,sugar_mango_ryder_Type I_canna_279,_,group 1
+280,canna_280,0.008729228,0.018615251,-0.022918007,-0.040155319,canna_280,south_africa_kwazulu_1,Landrace,south_africa_kwazulu_1_Landrace_canna_280,_,group 1
+281,canna_281,0.008419361,-0.000946592,0.015454853,-0.012113714,canna_281,south_africa_kwazulu_2,Landrace,south_africa_kwazulu_2_Landrace_canna_281,_,group 1
+282,canna_282,0.006419637,0.05073949,-0.051409632,-0.035732101,canna_282,columbian_gold,Landrace,columbian_gold_Landrace_canna_282,_,group 1
+283,canna_283,0.044196011,0.051189893,-0.014374961,-0.041471215,canna_283,ketama,Landrace,ketama_Landrace_canna_283,_,group 1
+284,canna_284,0.077352842,0.03319657,-0.016670233,-0.037874754,canna_284,wild_thailand_1,Landrace,wild_thailand_1_Landrace_canna_284,_,group 1
+285,canna_285,0.07817488,0.07324794,-0.03004278,0.013118568,canna_285,wild_thailand_2,Landrace,wild_thailand_2_Landrace_canna_285,_,group 1
+286,canna_286,0.055947085,0.050534609,-0.016655597,-0.051786067,canna_286,pakistan_valley_1,Landrace,pakistan_valley_1_Landrace_canna_286,_,group 1
+287,canna_287,0.019347558,0.014840533,-0.046453859,-0.006892414,canna_287,pakistan_valley_2,Landrace,pakistan_valley_2_Landrace_canna_287,_,group 4
+288,canna_288,0.024392274,0.006111839,-0.043941351,-0.003788526,canna_288,afghan_kush_1,Landrace,afghan_kush_1_Landrace_canna_288,_,group 4
+289,canna_289,0.030161244,0.00872187,-0.06956973,-0.023283269,canna_289,afghan_kush_2,Landrace,afghan_kush_2_Landrace_canna_289,_,group 2
+290,canna_290,0.017158019,0.03364,-0.063725821,-0.048098354,canna_290,brazil_amazonia,Landrace,brazil_amazonia_Landrace_canna_290,_,group 2
+291,canna_291,0.010320868,0.046707292,-0.040968054,0.0047094,canna_291,kilimanjaro_fern_1,Landrace,kilimanjaro_fern_1_Landrace_canna_291,_,group 4
+292,canna_292,0.043196674,0.080835629,-0.036077129,-0.033095794,canna_292,kilimanjaro_fern_2,Landrace,kilimanjaro_fern_2_Landrace_canna_292,_,group 4
+293,canna_293,0.0126594,0.001502151,-0.007140131,0.025842108,canna_293,boax,Landrace,boax_Landrace_canna_293,_,group 4
+294,canna_294,0.028604405,-0.029198316,0.012162225,0.048663578,canna_294,spitis_valley_1,Landrace,spitis_valley_1_Landrace_canna_294,_,group 4
+295,canna_295,0.040752399,-0.047434607,0.022265563,0.023477265,canna_295,odisha_54_1,Landrace,odisha_54_1_Landrace_canna_295,_,group 4
+296,canna_296,0.035106644,-0.046506784,0.021009339,-0.000277241,canna_296,odisha_54_2,Landrace,odisha_54_2_Landrace_canna_296,_,group 4
+297,canna_297,-0.002924989,-0.019156307,-0.007563332,-0.017704888,canna_297,kerala_munnar,Landrace,kerala_munnar_Landrace_canna_297,_,group 4
+298,canna_298,0.016883145,0.053537053,-0.009219112,0.103802022,canna_298,ace_of_spades,Type I,ace_of_spades_Type I_canna_298,_,group 4
+299,canna_299,0.041930767,0.021516415,-0.015734801,-0.008699973,canna_299,b_v_d_p_2,Landrace,b_v_d_p_2_Landrace_canna_299,_,group 4
+300,canna_300,-0.039107097,0.03412599,0.08241897,-0.002354145,canna_300,humble_pie_1,Type I,humble_pie_1_Type I_canna_300,_,group 1
+301,canna_301,-0.049327069,0.013853653,0.092163299,-0.006034952,canna_301,humble_pie_2,Type I,humble_pie_2_Type I_canna_301,_,group 4
+302,canna_302,0.023821306,0.027324373,-0.024965466,-0.001154512,canna_302,jillybean_No2_yoga_pants,Type I,jillybean_No2_yoga_pants_Type I_canna_302,_,group 4
+303,canna_303,-0.003712508,0.039870307,-0.0093208,-0.027689641,canna_303,raspberry_underdog,Type I,raspberry_underdog_Type I_canna_303,_,group 4
+304,canna_304,0.002854796,0.069465403,0.004100157,0.058208877,canna_304,super_dlights_1,Type I,super_dlights_1_Type I_canna_304,_,group 4
+305,canna_305,0.005680208,0.010189869,0.023856698,-0.001679722,canna_305,super_dlights_2,Type I,super_dlights_2_Type I_canna_305,_,group 4
+306,canna_306,0.01759398,0.023581688,-0.015172273,-0.01615858,canna_306,comfortably_numb_1,Type I,comfortably_numb_1_Type I_canna_306,_,group 4
+307,canna_307,0.018815409,0.002784286,-0.027906914,-0.059154238,canna_307,comfortably_numb_2,Type I,comfortably_numb_2_Type I_canna_307,_,group 4
+308,canna_308,-0.06710338,-0.015622617,-0.063578146,-0.029426942,canna_308,starlord_kush_1,Type I,starlord_kush_1_Type I_canna_308,_,group 4
+309,canna_309,-0.054156966,0.008451285,-0.041134531,-0.024953148,canna_309,starlord_kush_2,Type I,starlord_kush_2_Type I_canna_309,_,group 1
+310,canna_310,0.015163266,0.015635731,0.012303235,-0.001754787,canna_310,purple_train_1,Type I,purple_train_1_Type I_canna_310,_,group 1
+311,canna_311,-7.55E-05,-0.002801695,-0.006554022,-0.008521339,canna_311,purple_train_2,Type I,purple_train_2_Type I_canna_311,_,group 3
+312,canna_312,0.01303176,0.022605833,0.033093111,-0.031749414,canna_312,purple_train_3,Type I,purple_train_3_Type I_canna_312,_,group 4
+313,canna_313,0.031339703,-0.038299687,0.018090552,0.008919573,canna_313,spitis_valley_2,Landrace,spitis_valley_2_Landrace_canna_313,_,group 4
+314,canna_314,0.035079895,-0.03160293,0.01915101,0.03487227,canna_314,spitis_valley_3,Landrace,spitis_valley_3_Landrace_canna_314,_,group 4
+315,canna_315,-0.103259305,-0.009936436,0.054024349,0.046530944,canna_315,lemonata_37_x_purple_punch_2.0_1,Type I,lemonata_37_x_purple_punch_2.0_1_Type I_canna_315,_,group 4
+316,canna_316,-0.060263019,-0.013330602,0.022927727,-0.016455929,canna_316,lemonata_37_x_purple_punch_2.0_2,Type I,lemonata_37_x_purple_punch_2.0_2_Type I_canna_316,_,group 4
+317,canna_317,-0.023656335,0.017306926,0.061921104,-0.042802445,canna_317,harle_tsu_x_punch_breath_1,Type II,harle_tsu_x_punch_breath_1_Type II_canna_317,_,group 4
+318,canna_318,-0.049847196,-0.00275061,0.023794991,-0.012423581,canna_318,harle_tsu_x_punch_breath_2,Type II,harle_tsu_x_punch_breath_2_Type II_canna_318,_,group 4
+319,canna_319,-0.017806271,-0.003810971,-0.032963754,-0.013181724,canna_319,mango_sherbert_1,Type I,mango_sherbert_1_Type I_canna_319,_,group 4
+320,canna_320,-0.018531706,-0.010437865,-0.042762279,-0.037966645,canna_320,mango_sherbert_2,Type I,mango_sherbert_2_Type I_canna_320,_,group 4
+321,canna_321,-0.077260763,-0.006809222,-0.023561689,-0.032738289,canna_321,very_cherry_1,Type I,very_cherry_1_Type I_canna_321,_,group 4
+322,canna_322,-0.06576185,-0.005609958,-0.021483983,0.015792953,canna_322,very_cherry_2,Type I,very_cherry_2_Type I_canna_322,_,group 4
+323,canna_323,-0.060309227,0.011792287,-0.003416726,-0.004034443,canna_323,very_cherry_3,Type I,very_cherry_3_Type I_canna_323,_,group 4
+324,canna_324,-0.124845863,-0.027121333,0.021963839,0.051476598,canna_324,sour_lemon_tree,Type I,sour_lemon_tree_Type I_canna_324,_,group 4
+325,canna_325,-0.103927966,-0.001896252,0.041149217,0.022795034,canna_325,ultraviolence_x_banana_punch_1,Type I,ultraviolence_x_banana_punch_1_Type I_canna_325,_,group 4
+326,canna_326,0.000958466,-0.043283957,-0.020445775,-0.016802378,canna_326,ultraviolence_x_banana_punch_2,Type I,ultraviolence_x_banana_punch_2_Type I_canna_326,_,group 4
+327,canna_327,-0.024062847,-0.038264141,-0.015180719,-0.034141117,canna_327,ultraviolence_x_banana_punch_3,Type I,ultraviolence_x_banana_punch_3_Type I_canna_327,_,group 4
+328,canna_328,-0.053928131,-0.02068651,0.021424301,-0.016623533,canna_328,kyphi,Unknown,kyphi_Unknown_canna_328,_,group 4
+329,canna_329,-0.049612643,-0.024977858,-0.103447512,-0.011585727,canna_329,Chemdawg,Type I,Chemdawg_Type I_canna_329,_,group 1
+330,canna_330,-0.056737051,0.003345002,0.013310587,0.036995245,canna_330,G8,Type I,G8_Type I_canna_330,_,group 4
+331,canna_331,-0.042239628,-0.018753076,-0.058580835,-0.031837531,canna_331,Superman_5,Type I,Superman_5_Type I_canna_331,_,group 4
+332,canna_332,0.01070208,-0.001567504,-0.011802119,-0.046005919,canna_332,fruit_snacks_4,Type I,fruit_snacks_4_Type I_canna_332,_,group 3
+333,canna_333,-0.087944394,-0.030990911,-0.052937655,0.034963769,canna_333,skywalker,Type I,skywalker_Type I_canna_333,_,group 4
+334,canna_334,-0.046009912,-0.002783393,0.020119875,0.015959494,canna_334,starburst_og,Type I,starburst_og_Type I_canna_334,_,group 4
+335,canna_335,0.032989622,0.019738147,-0.012340477,-0.037960622,canna_335,blue_dream_12,Type I,blue_dream_12_Type I_canna_335,_,group 4
+336,canna_336,0.041449363,0.005328517,0.00468906,-0.065410193,canna_336,blue_dream_4,Type I,blue_dream_4_Type I_canna_336,_,group 4
+337,canna_337,0.004054022,-0.012418991,0.022615882,0.036677585,canna_337,Hindu_Kush_1,Landrace,Hindu_Kush_1_Landrace_canna_337,_,group 4
+338,canna_338,0.006934748,-0.010941219,0.004371226,-0.012060454,canna_338,Chintal_Landrace_1,Landrace,Chintal_Landrace_1_Landrace_canna_338,_,group 4
+339,canna_339,-0.020865631,0.007485926,0.029074115,0.010782632,canna_339,Chintal_Landrace_2,Landrace,Chintal_Landrace_2_Landrace_canna_339,_,group 4
+340,canna_340,0.009816731,-0.039261711,0.027211487,0.00382594,canna_340,Hunza_Landrace_1,Landrace,Hunza_Landrace_1_Landrace_canna_340,_,group 2
+341,canna_341,0.009810226,-0.031786964,0.004903121,-0.028843401,canna_341,Hunza_Landrace_2,Landrace,Hunza_Landrace_2_Landrace_canna_341,_,group 1
+342,canna_342,-0.018896134,-0.002587321,-0.012830112,-0.026021206,canna_342,eagle_scout_1,Type I,eagle_scout_1_Type I_canna_342,_,group 3
+343,canna_343,-0.017308063,-0.003486266,-0.010245587,-0.022336969,canna_343,eagle_scout_2,Type I,eagle_scout_2_Type I_canna_343,_,group 4
+344,canna_344,0.023291913,-0.032318632,0.041148254,0.010960518,canna_344,Burmese_Landrace_1,Landrace,Burmese_Landrace_1_Landrace_canna_344,_,group 2
+345,canna_345,0.027065466,-0.049508363,0.015311354,0.002758489,canna_345,Burmese_Landrace_2,Landrace,Burmese_Landrace_2_Landrace_canna_345,_,group 2
+346,canna_346,0.023144111,-0.052087317,0.026212194,-0.000419587,canna_346,Burmese_Landrace_3,Landrace,Burmese_Landrace_3_Landrace_canna_346,_,group 2
+347,canna_347,-0.00477836,-0.014318647,0.018504711,0.021625027,canna_347,NW_bolochistan_landrace,Landrace,NW_bolochistan_landrace_Landrace_canna_347,_,group 2
+348,canna_348,0.01469949,-0.016311768,0.020590708,0.017010525,canna_348,Hindu_Kush_2,Landrace,Hindu_Kush_2_Landrace_canna_348,_,group 2
+349,canna_349,-0.001574476,-0.011402452,0.010776878,0.011600201,canna_349,Hindu_Kush_3,Landrace,Hindu_Kush_3_Landrace_canna_349,_,group 2
+350,canna_350,0.002879988,-0.010464205,0.026436165,0.003590723,canna_350,Hindu_Kush_4,Landrace,Hindu_Kush_4_Landrace_canna_350,_,group 2
+351,canna_351,-0.0018985,-0.006066784,0.026493696,0.032807874,canna_351,Hindu_Kush_5,Landrace,Hindu_Kush_5_Landrace_canna_351,_,group 2
+352,canna_352,-0.014010161,-0.00707094,0.002961842,-0.012503293,canna_352,indian_landrace_1,Landrace,indian_landrace_1_Landrace_canna_352,_,group 2
+353,canna_353,-0.010773358,0.009366466,0.026515448,0.006120141,canna_353,indian_landrace_2,Landrace,indian_landrace_2_Landrace_canna_353,_,group 2
+354,canna_354,0.012687664,-0.029097469,0.030259733,0.008100626,canna_354,pakistani_landrace_1,Landrace,pakistani_landrace_1_Landrace_canna_354,_,group 2
+355,canna_355,0.013135525,0.04387608,0.016065628,0.005930627,canna_355,freakshow_1,Type I,freakshow_1_Type I_canna_355,_,group 2
+356,canna_356,0.01611012,0.038390648,0.006241746,0.005080974,canna_356,freakshow_2,Type I,freakshow_2_Type I_canna_356,_,group 2
+357,canna_357,0.016016308,0.048859253,-0.007929016,0.018633254,canna_357,freakshow_3,Type I,freakshow_3_Type I_canna_357,_,group 2
+358,canna_358,0.01903398,0.041016029,-0.000395812,0.006036686,canna_358,freakshow_4,Type I,freakshow_4_Type I_canna_358,_,group 2
+359,canna_359,0.018932283,0.036584286,-0.013211227,0.003117243,canna_359,freakshow_5,Type I,freakshow_5_Type I_canna_359,_,group 4
+360,canna_360,0.031246936,-0.016583677,0.009173249,0.01007701,canna_360,Cambodia_Landrace_1,Landrace,Cambodia_Landrace_1_Landrace_canna_360,_,group 4
+361,canna_361,-0.011334957,-0.012159265,0.019926528,0.002892347,canna_361,Lolab_Valley_Kashmir_Landrace_1,Landrace,Lolab_Valley_Kashmir_Landrace_1_Landrace_canna_361,_,group 4
+362,canna_362,0.012867704,-0.0300922,0.010370152,-0.002329967,canna_362,Lolab_Valley_Kashmir_Landrace_2,Landrace,Lolab_Valley_Kashmir_Landrace_2_Landrace_canna_362,_,group 4
+363,canna_363,0.012662024,-0.019397687,0.025941121,0.01037936,canna_363,Lolab_Valley_Kashmir_Landrace_3,Landrace,Lolab_Valley_Kashmir_Landrace_3_Landrace_canna_363,_,group 4
+364,canna_364,0.00295839,0.021103628,0.001874698,-0.042791477,canna_364,colombian_gold_1,Landrace,colombian_gold_1_Landrace_canna_364,_,group 4
+365,canna_365,-0.002222027,0.018188042,0.007869054,-0.05294113,canna_365,colombian_gold_2,Landrace,colombian_gold_2_Landrace_canna_365,_,group 4
+366,canna_366,0.004247774,0.007035437,0.006898479,-0.053315294,canna_366,colombian_gold_3,Landrace,colombian_gold_3_Landrace_canna_366,_,group 4
+367,canna_367,-0.002242513,0.014000849,0.003194848,-0.055647044,canna_367,colombian_gold_4,Landrace,colombian_gold_4_Landrace_canna_367,_,group 2
+368,canna_368,0.006220826,0.007435987,-0.001514927,-0.057545203,canna_368,colombian_gold_5,Landrace,colombian_gold_5_Landrace_canna_368,_,group 2
+369,canna_369,0.03245388,0.028008855,-0.018367148,-0.021665101,canna_369,colombian_gold_6,Landrace,colombian_gold_6_Landrace_canna_369,_,group 4
+370,canna_370,0.007197808,0.00735949,-0.012272771,-0.03630848,canna_370,vietnamese_highland_1,Landrace,vietnamese_highland_1_Landrace_canna_370,_,group 4
+371,canna_371,0.014115715,-0.002817318,0.001115033,-0.034118004,canna_371,vietnamese_highland_2,Landrace,vietnamese_highland_2_Landrace_canna_371,_,group 4
+372,canna_372,0.011096504,-0.007281151,-0.020153941,-0.024792607,canna_372,vietnamese_highland_3,Landrace,vietnamese_highland_3_Landrace_canna_372,_,group 4
+373,canna_373,0.010866481,-0.004000034,-0.010125812,-0.038056482,canna_373,vietnamese_highland_4,Landrace,vietnamese_highland_4_Landrace_canna_373,_,group 4
+374,canna_374,0.009954492,0.002794927,-0.011681301,-0.048521915,canna_374,vietnamese_highland_5,Landrace,vietnamese_highland_5_Landrace_canna_374,_,group 4
+375,canna_375,-0.000782677,0.002150422,-0.008060289,-0.004873437,canna_375,vietnamese_highland_6,Landrace,vietnamese_highland_6_Landrace_canna_375,_,group 4
+376,canna_376,0.009666409,-0.000473464,-0.003477059,-0.037810404,canna_376,vietnamese_highland_7,Landrace,vietnamese_highland_7_Landrace_canna_376,_,group 4
+377,canna_377,-0.007753997,-0.01807832,-0.028124968,-0.021122744,canna_377,vietnamese_highland_8,Landrace,vietnamese_highland_8_Landrace_canna_377,_,group 4
+378,canna_378,0.018441784,-0.012165165,-0.029330297,-0.016977746,canna_378,vietnamese_highland_9,Landrace,vietnamese_highland_9_Landrace_canna_378,_,group 4
+379,canna_379,0.000366525,-0.030893668,-0.040586199,-0.034265915,canna_379,vietnamese_highland_10,Landrace,vietnamese_highland_10_Landrace_canna_379,_,group 1
+380,canna_380,-0.002079084,-0.026508332,-0.050830786,-0.025681481,canna_380,vietnamese_highland_11,Landrace,vietnamese_highland_11_Landrace_canna_380,_,group 1
+381,canna_381,0.002789838,-0.028902006,-0.030860608,-0.031954291,canna_381,vietnamese_highland_12,Landrace,vietnamese_highland_12_Landrace_canna_381,_,group 4
+382,canna_382,0.006227339,-0.012890968,-0.033754892,-0.021546079,canna_382,vietnamese_highland_13,Landrace,vietnamese_highland_13_Landrace_canna_382,_,group 1
+383,canna_383,0.01285865,-0.001775989,0.008043956,-0.028745995,canna_383,vietnamese_highland_14,Landrace,vietnamese_highland_14_Landrace_canna_383,_,group 2
+384,canna_384,0.019830756,0.014710392,0.00700094,-0.023688705,canna_384,vietnamese_highland_15,Landrace,vietnamese_highland_15_Landrace_canna_384,_,group 4
+385,canna_385,0.0197049,0.024033371,-0.011680025,-0.03974979,canna_385,vietnamese_highland_16,Landrace,vietnamese_highland_16_Landrace_canna_385,_,group 4
+386,canna_386,-0.005426343,-0.028475518,-0.036599121,-0.027612575,canna_386,vietnamese_highland_17,Landrace,vietnamese_highland_17_Landrace_canna_386,_,group 4
+387,canna_387,-0.003022745,-0.018044854,0.005277291,-0.006699433,canna_387,pakistani_landrace_2,Landrace,pakistani_landrace_2_Landrace_canna_387,_,group 4
+388,canna_388,0.003178957,-0.00627762,0.011222172,-0.029349089,canna_388,Hindu_Kush_6,Landrace,Hindu_Kush_6_Landrace_canna_388,_,group 3
+389,canna_389,0.022974232,-0.021421696,-0.003183379,-0.017986345,canna_389,Wailing_Valley_Malana_Landrace,Landrace,Wailing_Valley_Malana_Landrace_Landrace_canna_389,_,group 3
+390,canna_390,0.021214532,-0.034568991,0.014437467,0.003139956,canna_390,Burmese_Landrace_4,Landrace,Burmese_Landrace_4_Landrace_canna_390,_,group 3
+391,canna_391,-0.005556456,-0.022676726,0.016875363,-0.000524267,canna_391,Lolab_Valley_Kashmir_Landrace_4,Landrace,Lolab_Valley_Kashmir_Landrace_4_Landrace_canna_391,_,group 3
+392,canna_392,0.005397611,-0.017539829,0.012412325,0.000554971,canna_392,Cambodia_Landrace_2,Landrace,Cambodia_Landrace_2_Landrace_canna_392,_,group 4
+393,canna_393,0.035347748,-0.009064278,-0.005646298,0.034794683,canna_393,australian_bastard_child,Landrace,australian_bastard_child_Landrace_canna_393,_,group 4
+394,canna_394,0.035135251,-0.042997045,0.029637289,-0.022867258,canna_394,BD_x_RS,Type I,BD_x_RS_Type I_canna_394,_,group 1
+395,canna_395,-0.046894511,-0.013755654,-0.047911407,-0.022169211,canna_395,stardawg_amam3,Type I,stardawg_amam3_Type I_canna_395,_,group 4
+396,canna_396,-0.067436645,0.003982161,-0.026064155,-0.026415008,canna_396,blueberry_banana_sherbert,Type I,blueberry_banana_sherbert_Type I_canna_396,_,group 1
+397,canna_397,0.050372088,0.087722295,-0.02799688,0.037337389,canna_397,cloud_99_1,Type I,cloud_99_1_Type I_canna_397,_,group 4
+398,canna_398,0.047298015,0.082989531,-0.041040341,0.048236964,canna_398,cloud_99_2,Type I,cloud_99_2_Type I_canna_398,_,group 4
+399,canna_399,0.039259767,0.058109985,0.017048558,-0.062987327,canna_399,big_skunk_1,Type I,big_skunk_1_Type I_canna_399,_,group 4
+400,canna_400,0.038147941,0.04722478,0.010161934,-0.107823308,canna_400,big_skunk_2,Type I,big_skunk_2_Type I_canna_400,_,group 4
+401,canna_401,0.055929507,0.063664642,0.021215578,-0.093108959,canna_401,big_skunk_3,Type I,big_skunk_3_Type I_canna_401,_,group 4
+402,canna_402,0.036101826,0.068400068,0.011090723,-0.075963463,canna_402,big_skunk_4,Type I,big_skunk_4_Type I_canna_402,_,group 4
+403,canna_403,-0.000309567,0.024497902,0.005436132,-0.026373224,canna_403,strawberry_banana_sherbert_1,Type I,strawberry_banana_sherbert_1_Type I_canna_403,_,group 4
+404,canna_404,-0.042019555,-0.00431261,-0.017931235,-0.005248178,canna_404,strawberry_banana_sherbert_2,Type I,strawberry_banana_sherbert_2_Type I_canna_404,_,group 4
+405,canna_405,0.021196001,0.099665674,0.111288565,-0.006308574,canna_405,purple_urkle_1,Type I,purple_urkle_1_Type I_canna_405,_,group 4
+406,canna_406,-0.017185912,0.070760237,0.120727368,0.072679498,canna_406,purple_urkle_2,Type I,purple_urkle_2_Type I_canna_406,_,group 1
+407,canna_407,-0.057687242,0.00054864,0.009114837,0.009655239,canna_407,bai_1,Unknown,bai_1_Unknown_canna_407,_,group 4
+408,canna_408,-0.023518436,-0.003477107,-0.085136146,0.012908097,canna_408,Chemdawg_91_1,Type I,Chemdawg_91_1_Type I_canna_408,_,group 2
+409,canna_409,-0.009628046,0.019843604,-0.035970789,-0.062373369,canna_409,Chemdawg_91_2,Type I,Chemdawg_91_2_Type I_canna_409,_,group 3
+410,canna_410,-0.013177219,0.008169146,-0.047413318,-0.055583554,canna_410,Chemdawg_91_3,Type I,Chemdawg_91_3_Type I_canna_410,_,group 4
+411,canna_411,0.001254149,0.073399521,-0.054041533,0.036157454,canna_411,locomotion_1,Type I,locomotion_1_Type I_canna_411,_,group 4
+412,canna_412,0.04821835,0.046268045,0.003035332,-0.077418872,canna_412,old_school_OG_1,Type I,old_school_OG_1_Type I_canna_412,_,group 4
+413,canna_413,0.002956554,0.012210972,0.018134727,-0.014942917,canna_413,resin,Unknown,resin_Unknown_canna_413,_,group 4
+414,canna_414,0.066245867,0.052527913,-0.012504364,-0.102633432,canna_414,old_school_OG_2,Type I,old_school_OG_2_Type I_canna_414,_,group 4
+415,canna_415,0.046598609,0.056517629,-0.000267111,-0.073023199,canna_415,old_school_OG_3,Type I,old_school_OG_3_Type I_canna_415,_,group 4
+416,canna_416,0.002622792,0.062568927,0.106955649,0.042340277,canna_416,purple_urkle_3,Type I,purple_urkle_3_Type I_canna_416,_,group 4
+417,canna_417,0.007963055,0.051354215,0.042996138,0.017817993,canna_417,purple_urkle_4,Type I,purple_urkle_4_Type I_canna_417,_,group 4
+418,canna_418,-0.017369343,0.011791945,-0.05545105,-0.018699784,canna_418,smuckers,Type I,smuckers_Type I_canna_418,_,group 4
+419,canna_419,0.012124122,0.081719769,0.097887776,-0.014516077,canna_419,purple_urkle_5,Type I,purple_urkle_5_Type I_canna_419,_,group 4
+420,canna_420,0.004979122,0.059105258,0.086981016,-0.041027683,canna_420,purple_urkle_6,Type I,purple_urkle_6_Type I_canna_420,_,group 3
+421,canna_421,0.0064031,0.061029522,0.053277509,-0.002327923,canna_421,purple_urkle_7,Type I,purple_urkle_7_Type I_canna_421,_,group 3
+422,canna_422,0.006769053,0.080062866,0.079047687,-0.002488775,canna_422,purple_urkle_8,Type I,purple_urkle_8_Type I_canna_422,_,group 4
+423,canna_423,-0.003131634,0.008314228,-0.018661804,-0.017858181,canna_423,locomotion_2,Type I,locomotion_2_Type I_canna_423,_,group 1
+424,canna_424,-0.042802628,-0.002423205,-0.008551782,0.005843606,canna_424,forbidden_fruit_1,Type I,forbidden_fruit_1_Type I_canna_424,_,group 4
+425,canna_425,-0.015672657,0.010807426,0.004708497,0.002660909,canna_425,forbidden_fruit_2,Type I,forbidden_fruit_2_Type I_canna_425,_,group 1
+426,canna_426,0.048035492,0.051127357,-0.000570364,-0.068394044,canna_426,old_school_OG_4,Type I,old_school_OG_4_Type I_canna_426,_,group 4
+427,canna_427,0.037224869,0.069597073,-0.061418461,0.105780109,canna_427,locomotion_3,Type I,locomotion_3_Type I_canna_427,_,group 2
+428,canna_428,0.011509669,0.000903506,-0.011641915,0.003741199,canna_428,cat_piss_1,Type I,cat_piss_1_Type I_canna_428,_,group 2
+429,canna_429,0.012955773,-0.001321214,-0.053069839,-0.038388245,canna_429,cat_piss_2,Type I,cat_piss_2_Type I_canna_429,_,group 3
+430,canna_430,0.031114408,-0.000701749,-0.0357356,-0.035951691,canna_430,cat_piss_3,Type I,cat_piss_3_Type I_canna_430,_,group 2
+431,canna_431,0.000830739,0.005662993,-0.059316706,-0.01315896,canna_431,cat_piss_4,Type I,cat_piss_4_Type I_canna_431,_,group 4
+432,canna_432,0.017878374,0.091013274,0.088458272,0.104424375,canna_432,querkle_1,Type I,querkle_1_Type I_canna_432,_,group 4
+433,canna_433,0.025241529,0.088919859,0.065638648,0.069818339,canna_433,querkle_2,Type I,querkle_2_Type I_canna_433,_,group 4
+434,canna_434,0.007475211,0.093889815,0.11396336,0.054176175,canna_434,querkle_3,Type I,querkle_3_Type I_canna_434,_,group 4
+435,canna_435,0.016246708,0.096739191,0.087095378,0.103577738,canna_435,querkle_4,Type I,querkle_4_Type I_canna_435,_,group 4
+436,canna_436,0.003584426,0.085419974,0.090347033,0.052169761,canna_436,querkle_5,Type I,querkle_5_Type I_canna_436,_,group 4
+437,canna_437,0.003245941,0.083913998,0.081523177,0.050081646,canna_437,querkle_6,Type I,querkle_6_Type I_canna_437,_,group 4
+438,canna_438,0.072916802,0.119025906,-0.06072653,0.155567313,canna_438,space_queen_1,Type I,space_queen_1_Type I_canna_438,_,group 4
+439,canna_439,0.037142403,0.063114437,-0.041378118,0.06855892,canna_439,Jillybean,Type I,Jillybean_Type I_canna_439,_,group 4
+440,canna_440,0.063897467,0.116632781,-0.010731221,0.104401703,canna_440,vortex,Type I,vortex_Type I_canna_440,_,group 4
+441,canna_441,0.072106695,0.113285958,-0.062304386,0.144597982,canna_441,jack_the_ripper,Type I,jack_the_ripper_Type I_canna_441,_,group 4
+442,canna_442,-0.055720619,0.057375804,0.170962319,0.005374511,canna_442,purple_urkle_9,Type I,purple_urkle_9_Type I_canna_442,_,group 4
+443,canna_443,0.018593818,0.007525901,0.007955837,-0.021386484,canna_443,cali_orange,Type I,cali_orange_Type I_canna_443,_,group 3
+444,canna_444,0.069077974,0.114769503,-0.063684781,0.15150693,canna_444,space_queen_2,Type I,space_queen_2_Type I_canna_444,_,group 3
+445,canna_445,0.066559072,0.078597562,-0.036152724,0.049589797,canna_445,space_queen_3,Type I,space_queen_3_Type I_canna_445,_,group 3
+446,canna_446,0.039015853,0.074393896,0.014781958,0.051081223,canna_446,apollo_13,Type I,apollo_13_Type I_canna_446,_,group 3
+447,canna_447,-0.028807037,-0.016167242,-0.00581745,-0.031091856,canna_447,bloodwreck,Type I,bloodwreck_Type I_canna_447,_,group 3
+448,canna_448,0.044315073,0.063850487,-0.057649465,0.044012804,canna_448,jacks_cleaner,Type I,jacks_cleaner_Type I_canna_448,_,group 3
+449,canna_449,0.00758177,0.097671037,0.097075945,0.063149277,canna_449,querkle_7,Type I,querkle_7_Type I_canna_449,_,group 4
+450,canna_450,0.017464765,0.055788518,-0.030964649,0.039955019,canna_450,timewreck,Type I,timewreck_Type I_canna_450,_,group 4
+451,canna_451,-0.107458795,-0.04113286,-0.059053903,-0.01702554,canna_451,GG4_1,Type I,GG4_1_Type I_canna_451,_,group 4
+452,canna_452,0.042638431,-0.114661431,0.034400574,0.035743841,canna_452,plushberry_x_otto,Type II,plushberry_x_otto_Type II_canna_452,_,group 4
+453,canna_453,0.011435853,0.006242411,0.001296726,-0.054218493,canna_453,1,Unknown,1_Unknown_canna_453,_,group 4
+454,canna_454,-0.020650641,-0.000366113,-0.002556789,0.030439372,canna_454,valentine_x_otto_3,Type II,valentine_x_otto_3_Type II_canna_454,_,group 4
+455,canna_455,0.013129473,0.015548055,0.017567616,-0.030702738,canna_455,2,Unknown,2_Unknown_canna_455,_,group 4
+456,canna_456,0.033744618,-0.028320743,0.027154244,0.020596191,canna_456,purple_urkle_10,Type I,purple_urkle_10_Type I_canna_456,_,group 4
+457,canna_457,-0.021716089,0.008741744,0.018111799,-0.026380579,canna_457,larry_og,Type I,larry_og_Type I_canna_457,_,group 4
+458,canna_458,0.015688568,-0.003505945,0.002341276,-0.033669906,canna_458,blue_dream_1,Type I,blue_dream_1_Type I_canna_458,_,group 4
+459,canna_459,0.023020469,-0.017123239,0.021735091,-0.004711494,canna_459,4,Unknown,4_Unknown_canna_459,_,group 4
+460,canna_460,0.014248343,0.020522547,0.015618051,-0.031970779,canna_460,GG4_2,Type I,GG4_2_Type I_canna_460,_,group 4
+461,canna_461,0.03037575,0.006018974,-0.018434533,0.056405057,canna_461,Harlequin,Type III,Harlequin_Type III_canna_461,_,group 4
+462,canna_462,-0.002194797,0.037525334,0.052924127,0.051989413,canna_462,cheese_quake,Type I,cheese_quake_Type I_canna_462,_,group 4
+463,canna_463,-0.053534629,0.057052065,0.170761394,0.006834104,canna_463,blue_dream_2,Type I,blue_dream_2_Type I_canna_463,_,group 4
+464,canna_464,0.067805581,0.107254629,-0.01780543,0.060148681,canna_464,blue_dream_5,Type I,blue_dream_5_Type I_canna_464,_,group 4
+465,canna_465,0.021911502,0.001032859,-0.085486275,0.040304923,canna_465,blue_dream_x_chemdawg_1,Type I,blue_dream_x_chemdawg_1_Type I_canna_465,_,group 4
+466,canna_466,0.005434652,-0.007853548,-0.063103466,0.013436859,canna_466,blue_dream_x_chemdawg_2,Type I,blue_dream_x_chemdawg_2_Type I_canna_466,_,group 4
+467,canna_467,-0.014208085,-0.024725689,-0.035693232,-0.003072544,canna_467,pineapple_x_chemdawg_1,Type I,pineapple_x_chemdawg_1_Type I_canna_467,_,group 4
+468,canna_468,-0.009862576,-0.027632401,-0.031784042,-0.00712315,canna_468,pineapple_x_chemdawg_2,Type I,pineapple_x_chemdawg_2_Type I_canna_468,_,group 4
+469,canna_469,-0.014238983,-0.010600009,-0.08781288,0.030894902,canna_469,pineapple_x_chemdawg_3,Type I,pineapple_x_chemdawg_3_Type I_canna_469,_,group 4
+470,canna_470,-0.010544835,-0.008594506,-0.083888673,0.034181369,canna_470,pineapple_x_chemdawg_4,Type I,pineapple_x_chemdawg_4_Type I_canna_470,_,group 3
+471,canna_471,0.0166242,0.005037729,-0.090759213,0.008835066,canna_471,pineapple_x_chemdawg_5,Type I,pineapple_x_chemdawg_5_Type I_canna_471,_,group 4
+472,canna_472,-0.0019664,-0.005352507,-0.029905216,0.026157439,canna_472,pineapple_x_chemdawg_6,Type I,pineapple_x_chemdawg_6_Type I_canna_472,_,group 4
+473,canna_473,6.95E-05,-0.004212543,-0.028395289,0.023217385,canna_473,pineapple_x_chemdawg_7,Type I,pineapple_x_chemdawg_7_Type I_canna_473,_,group 4
+474,canna_474,-0.072358721,-0.024488986,-0.092240193,-0.010462002,canna_474,longpoint_lime_x_sour_diesel,Type I,longpoint_lime_x_sour_diesel_Type I_canna_474,_,group 4
+475,canna_475,-0.011576949,0.008492527,0.000335785,0.016503572,canna_475,sunset_sherbert_1,Type I,sunset_sherbert_1_Type I_canna_475,_,group 4
+476,canna_476,0.041728065,0.007778926,0.004510121,-0.067098653,canna_476,blue_dream_6,Type I,blue_dream_6_Type I_canna_476,_,group 4
+477,canna_477,0.055443479,-0.035757276,0.011452208,0.011842961,canna_477,acapulco_gold_1,Landrace,acapulco_gold_1_Landrace_canna_477,_,group 4
+478,canna_478,0.056278969,-0.020334321,0.018564941,0.014790118,canna_478,acapulco_gold_2,Landrace,acapulco_gold_2_Landrace_canna_478,_,group 4
+479,canna_479,0.02734398,-0.021617387,0.002034534,-0.027771228,canna_479,blueberry_muffin_1,Type I,blueberry_muffin_1_Type I_canna_479,_,group 4
+480,canna_480,0.023000316,0.003842004,0.009120185,-0.039221088,canna_480,blueberry_muffin_2,Type I,blueberry_muffin_2_Type I_canna_480,_,group 2
+481,canna_481,0.026515703,-0.014514995,0.010735861,-0.052904947,canna_481,purple_panty_dropper,Type I,purple_panty_dropper_Type I_canna_481,_,group 4
+482,canna_482,0.011683705,0.021600063,-0.024245028,0.012042639,canna_482,blue_diamond_OG,Type I,blue_diamond_OG_Type I_canna_482,_,group 4
+483,canna_483,-0.048094368,0.004866048,-0.018691577,-0.031607412,canna_483,GSC_x_Cherry_Pie,Type I,GSC_x_Cherry_Pie_Type I_canna_483,_,group 4
+484,canna_484,-0.064353654,0.00391025,-0.023394285,-0.028706285,canna_484,GSC_x_cherry_Pie_x_Underdog,Type I,GSC_x_cherry_Pie_x_Underdog_Type I_canna_484,_,group 4
+485,canna_485,-0.048108444,0.050117703,0.159256544,0.000837172,canna_485,granddaddy_purple_5,Type I,granddaddy_purple_5_Type I_canna_485,_,group 4
+486,canna_486,-0.1196365,0.003288257,0.051776835,0.01667617,canna_486,sunset_sherbert_2,Type I,sunset_sherbert_2_Type I_canna_486,_,group 4
+487,canna_487,-0.070506798,0.017356781,0.014887013,0.007606223,canna_487,cherry_pie_underdog_x_sunset_sherbert_1,Type I,cherry_pie_underdog_x_sunset_sherbert_1_Type I_canna_487,_,group 4
+488,canna_488,-0.053805735,0.039207869,0.040741616,0.035854928,canna_488,cherry_pie_underdog_x_sunset_sherbert_2,Type I,cherry_pie_underdog_x_sunset_sherbert_2_Type I_canna_488,_,group 4
+489,canna_489,-0.06153354,0.020486298,0.038106122,0.026616205,canna_489,cherry_pie_underdog_x_sunset_sherbert_3,Type I,cherry_pie_underdog_x_sunset_sherbert_3_Type I_canna_489,_,group 4
+490,canna_490,0.041431823,0.008384234,-0.00057489,-0.067151287,canna_490,blue_dream_7,Type I,blue_dream_7_Type I_canna_490,_,group 1
+491,canna_491,0.042084709,0.014617069,-0.024931365,-0.034613246,canna_491,l_wl_10,Unknown,l_wl_10_Unknown_canna_491,_,group 1
+492,canna_492,-0.057879374,-0.005758059,-0.015877707,0.005838476,canna_492,NorCal_diesel,Type I,NorCal_diesel_Type I_canna_492,_,group 3
+493,canna_493,-0.041011786,0.005144214,0.034627221,-0.051945727,canna_493,chile_verde,Type I,chile_verde_Type I_canna_493,_,group 3
+494,canna_494,-0.045606942,-0.007040767,-0.05362656,-0.033477646,canna_494,headband,Type I,headband_Type I_canna_494,_,group 3
+495,canna_495,0.044524666,-0.001748137,0.02517358,0.001167604,canna_495,lambs_bread,Type I,lambs_bread_Type I_canna_495,_,group 3
+496,canna_496,-0.090982119,-0.033915757,-0.048079181,0.036311058,canna_496,super_glue,Type I,super_glue_Type I_canna_496,_,group 3
+497,canna_497,-0.03359815,0.043162392,0.110380978,0.014249316,canna_497,granddaddy_purple_6,Type I,granddaddy_purple_6_Type I_canna_497,_,group 3
+498,canna_498,-0.032800149,0.024023571,0.085420384,0.012514095,canna_498,granddaddy_purple_7,Type I,granddaddy_purple_7_Type I_canna_498,_,group 4

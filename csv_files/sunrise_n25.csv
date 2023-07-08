@@ -1,0 +1,26 @@
+,sample.id,EV1,EV2,EV3,EV4,Cultivar,Type,HCPC,,
+1,sorted_bam/SRR5241579_1_sort.bam,-0.072094645,-0.177429779,0.101906686,0.010622656,White Master Kush_a1,Type I,White Master Kush_a1_Type I,_,White Master Kush_a1_Type I
+2,sorted_bam/SRR5241580_1_sort.bam,-0.034943557,0.329775615,0.380426545,0.134350941,Purple Kryptonite1_a1,Type I,Purple Kryptonite1_a1_Type I,_,Purple Kryptonite1_a1_Type I
+3,sorted_bam/SRR5241581_1_sort.bam,-0.040516946,0.337134726,0.501915089,0.132537427,Oddball_a1,Unknown,Oddball_a1_Unknown,_,Oddball_a1_Unknown
+4,sorted_bam/SRR5241582_1_sort.bam,-0.106201374,-0.333179417,-0.002179786,0.028004153,Nuclear Fruit1_a1,Type I,Nuclear Fruit1_a1_Type I,_,Nuclear Fruit1_a1_Type I
+5,sorted_bam/SRR5241583_1_sort.bam,-0.056915182,0.200646525,0.157465582,-0.142232613,MN unknown_a1,Unknown,MN unknown_a1_Unknown,_,MN unknown_a1_Unknown
+6,sorted_bam/SRR5241584_1_sort.bam,-0.080500719,0.15744747,-0.297843945,-0.509540537,Matt 32_a1,Unknown,Matt 32_a1_Unknown,_,Matt 32_a1_Unknown
+7,sorted_bam/SRR5241585_1_sort.bam,-0.071579059,0.114637818,-0.234948518,-0.45668457,Matt 31_a1,Unknown,Matt 31_a1_Unknown,_,Matt 31_a1_Unknown
+8,sorted_bam/SRR5241586_1_sort.bam,-0.080574858,0.06809872,-0.031286128,0.108018936,Master Kush_a1,Type I,Master Kush_a1_Type I,_,Master Kush_a1_Type I
+9,sorted_bam/SRR5241587_1_sort.bam,0.571684629,-0.008357948,0.00433197,-0.030535252,Liberty Haze1_a1,Type I,Liberty Haze1_a1_Type I,_,Liberty Haze1_a1_Type I
+10,sorted_bam/SRR5241588_1_sort.bam,0.537712591,-0.022022453,-0.026708114,0.075406033,Jah_a1,Type I,Jah_a1_Type I,_,Jah_a1_Type I
+11,sorted_bam/SRR5241589_1_sort.bam,-0.103810702,0.167781554,-0.098207932,0.042010786,Jack Herer_a1,Type I,Jack Herer_a1_Type I,_,Jack Herer_a1_Type I
+12,sorted_bam/SRR5241590_1_sort.bam,-0.068615757,-0.151900966,0.053110882,0.098312618,Headband1_a1,Type I,Headband1_a1_Type I,_,Headband1_a1_Type I
+13,sorted_bam/SRR5241591_1_sort.bam,-0.055784406,0.182117787,0.069205286,-0.170506234,Halfy_a1,Unknown,Halfy_a1_Unknown,_,Halfy_a1_Unknown
+14,sorted_bam/SRR5241592_1_sort.bam,0.503749966,-0.028103957,-0.101470477,0.003134449,Corleone Kush_a1,Type I,Corleone Kush_a1_Type I,_,Corleone Kush_a1_Type I
+15,sorted_bam/SRR5241593_1_sort.bam,-0.061021992,0.146050558,-0.014118168,0.144018168,Blue Steele_a1,Type I,Blue Steele_a1_Type I,_,Blue Steele_a1_Type I
+16,sorted_bam/SRR5241594_1_sort.bam,-0.077030157,-0.324372997,0.07582518,-0.018186542,Blue Dream2_a1,Type I,Blue Dream2_a1_Type I,_,Blue Dream2_a1_Type I
+17,sorted_bam/SRR5241595_1_sort.bam,-0.035700232,0.053687004,-0.044263241,-0.14022473,Blue Dream1_a1,Type I,Blue Dream1_a1_Type I,_,Blue Dream1_a1_Type I
+18,sorted_bam/SRR5241596_1_sort.bam,-0.085028964,0.095113665,-0.309783826,0.31864532,Black Jack2_a1,Type I,Black Jack2_a1_Type I,_,Black Jack2_a1_Type I
+19,sorted_bam/SRR5241597_1_sort.bam,-0.09889013,0.080280536,-0.313620297,0.335882166,Black Jack1_a1,Type I,Black Jack1_a1_Type I,_,Black Jack1_a1_Type I
+20,sorted_bam/SRR5241598_1_sort.bam,-0.09752405,0.152619311,-0.120422614,-0.04894157,Berry Garcia_a1,Type I,Berry Garcia_a1_Type I,_,Berry Garcia_a1_Type I
+21,sorted_bam/SRR5241599_1_sort.bam,-0.094891544,-0.255133508,0.020799068,0.005023491,Banana2_a1,Type I,Banana2_a1_Type I,_,Banana2_a1_Type I
+22,sorted_bam/SRR5241600_1_sort.bam,-0.104151168,-0.326607456,-0.018232938,0.028808907,Banana_a1,Type I,Banana_a1_Type I,_,Banana_a1_Type I
+23,sorted_bam/SRR5241601_1_sort.bam,-0.034158609,-0.345501702,0.389522902,-0.235027499,AZ Star #2_a1,Unknown,AZ Star #2_a1_Unknown,_,AZ Star #2_a1_Unknown
+24,sorted_bam/SRR5241602_1_sort.bam,-0.096590962,-0.076668292,-0.159512232,0.318874086,Amnesia Haze_a1,Type I,Amnesia Haze_a1_Type I,_,Amnesia Haze_a1_Type I
+25,sorted_bam/SRR5241603_1_sort.bam,-0.056622175,-0.036112814,0.018089026,-0.031770588,Alien Dawg_a1,Type I,Alien Dawg_a1_Type I,_,Alien Dawg_a1_Type I
