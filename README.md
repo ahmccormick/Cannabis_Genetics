@@ -12,6 +12,7 @@ This repository provides the supporting data for a recently submitted manuscript
 
 •	R scripts for main and supplemental figures are located in Figure_Scripts  folder
 
-•	High resolution versions of main and supplemental figures are in the Manuscript folder
+•	High resolution versions of main and supplemental figures are available on fig share
+https://figshare.com/authors/Anna_H_McCormick/17741367
 
 
