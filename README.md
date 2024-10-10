@@ -1,6 +1,7 @@
 # Cannabis_Genetics
 
-This repository provides the supporting data for a recently submitted manuscript entitled “Examining population structure across multiple collections of Cannabis”.
+This repository provides the supporting data for manuscript entitled “Examining population structure across multiple collections of Cannabis”.
+https://www.researchgate.net/publication/379023917_Examining_population_structure_across_multiple_collections_of_Cannabis
 
 •	VCF files for the various datasets can be located in Filtered_VCF_Files
 
